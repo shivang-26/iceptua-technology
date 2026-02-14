@@ -1,0 +1,47 @@
+[
+  {
+    "category": "Development",
+    "title": "Web App Development",
+    "description": "Custom-built, secure, and scalable web applications designed to streamline business operations and enhance customer experience."
+  },
+  {
+    "category": "Development",
+    "title": "Mobile App Development",
+    "description": "Cross-platform iOS and Android mobile apps with intuitive UI/UX, optimized for performance and user engagement."
+  },
+  {
+    "category": "Development",
+    "title": "Custom Software Development",
+    "description": "Enterprise-grade software solutions tailored to meet complex organizational needs with high performance and reliability."
+  },
+  {
+    "category": "Infrastructure & Support",
+    "title": "Cloud Infra Support",
+    "description": "End-to-end cloud solutions on AWS, Azure, and Google Cloud, including migration, optimization, and ongoing support."
+  },
+  {
+    "category": "Infrastructure & Support",
+    "title": "Managed IT Services",
+    "description": "24/7 IT monitoring, proactive issue resolution, and technical support to keep your business running smoothly."
+  },
+  {
+    "category": "Infrastructure & Support",
+    "title": "Cybersecurity Solutions",
+    "description": "Comprehensive threat detection, data protection, and compliance management to secure your digital assets."
+  },
+  {
+    "category": "Training",
+    "title": "Full Stack IT Training",
+    "description": "Master front-end and back-end development with hands-on training in HTML, CSS, JavaScript, React, Node.js, Python, and databases to become a complete Full Stack Developer."
+  },
+  {
+    "category": "Training",
+    "title": "Cloud & DevOps Training",
+    "description": "Hands-on training in AWS, Azure, Docker, Kubernetes, and CI/CD pipelines for modern IT teams."
+  },
+  {
+    "category": "Training",
+    "title": "AI & Data Science Training",
+    "description": "Learn Artificial Intelligence, Machine Learning, and NLP with real-world projects guided by industry experts."
+  }
+]

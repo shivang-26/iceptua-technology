@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Python Essentials 1",
+    "duration": "1 Month",
+    "mode": "Online",
+    "certificate": true,
+    "description": "Learn the fundamentals of Python programming, including syntax, data types, loops, and functions. Build a strong foundation to start your coding journey."
+  },
+  {
+    "title": "Python Essentials 2",
+    "duration": "1 Month",
+    "mode": "Online",
+    "certificate": true,
+    "description": "Advance your Python skills with object-oriented programming, file handling, error handling, and essential libraries like NumPy and Pandas."
+  },
+  {
+    "title": "Data Science Essentials",
+    "duration": "1 Month",
+    "mode": "Online",
+    "certificate": true,
+    "description": "Get introduced to data analysis, statistics, and visualization. Learn how to handle datasets with Python and uncover insights using real-world examples."
+  },
+  {
+    "title": "Cybersecurity Fundamentals",
+    "duration": "1 Month",
+    "mode": "Online",
+    "certificate": true,
+    "description": "Understand the basics of cybersecurity, encryption, and network security. Gain awareness of common cyber threats and defense strategies."
+  },
+  {
+    "title": "Cloud Computing with Azure",
+    "duration": "1 Month",
+    "mode": "Online",
+    "certificate": true,
+    "description": "Hands-on training in Microsoft Azure, covering cloud architecture, storage, and deployment. Learn to manage applications in the cloud."
+  },
+  {
+    "title": "Machine Learning Bootcamp",
+    "duration": "2 Months",
+    "mode": "Online",
+    "certificate": true,
+    "description": "Dive into supervised and unsupervised learning, regression, and classification. Build practical ML models using Python and real datasets."
+  },
+  {
+    "title": "Full Stack Development",
+    "duration": "2 Months",
+    "mode": "Online",
+    "certificate": true,
+    "description": "Master both front-end and back-end development with hands-on training in HTML, CSS, JavaScript, React, Node.js, Python, and databases."
+  },
+  {
+    "title": "Digital Marketing Fundamentals",
+    "duration": "1 Month",
+    "mode": "Online",
+    "certificate": true,
+    "description": "Learn SEO, SEM, social media marketing, Google Ads, and email campaigns. Gain practical skills to grow brands and run successful digital strategies."
+  },
+  {
+    "title": "Cisco CCNA Certification Training",
+    "duration": "3 Months",
+    "mode": "Online",
+    "certificate": true,
+    "description": "Prepare for the Cisco CCNA 200-301 exam with training in networking fundamentals, IP services, security fundamentals, automation, and programmability."
+  },
+  {
+    "title": "Cisco CCNP Enterprise Certification Training",
+    "duration": "3 Months",
+    "mode": "Online",
+    "certificate": true,
+    "description": "Gain expertise in enterprise networking solutions. Learn advanced routing, switching, troubleshooting, and network automation for large-scale infrastructures."
+  },
+  {
+    "title": "Cisco CCNP Security Certification Training",
+    "duration": "3 Months",
+    "mode": "Online",
+    "certificate": true,
+    "description": "Master Cisco security solutions, including firewalls, VPNs, intrusion prevention, and secure access. Get prepared for CCNP Security certification."
+  },
+  {
+    "title": "Red Hat Ansible Network Automation Training",
+    "duration": "2 Months",
+    "mode": "Online",
+    "certificate": true,
+    "description": "Learn to automate network configurations and management using Red Hat Ansible. Gain hands-on skills to streamline IT operations and improve efficiency."
+  }
+]
